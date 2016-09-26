@@ -7,7 +7,7 @@ RowdyRunner is a Java-based program that takes the best elements of a classic to
 
 ## Specifications
   RowdyRunner's source code applies advanced techniques to help render graphics by taking advantage of classes like Canvas and Swing. To help visual stability, our team incorporated a double-buffering technique to help render a seamless graphical experience, and with the utilization of spritesheets, we were able to reduce the memory overhead of the game. Further more, our source code takes full advantage of the Model-View-Controller (MVC) scheme, which separates the code's tasks in a more organized way.<br/><br/>
-Executables Include: .jar (Universal) and .app (macOS)
+Executables Include: RowdyRunnerSE.jar (Universal) and RowdyRunnerSE.app (macOS)
 
 ## Contributors 
 RowdyRunnerSE<br/>
